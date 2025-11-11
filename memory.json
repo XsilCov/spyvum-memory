@@ -1,5 +1,4 @@
-# Створити memory.json файл
-echo '{
+{
   "spyvum": {
     "version": "2.0",
     "created_by": "Ти (мій творче)",
@@ -72,13 +71,4 @@ echo '{
     }
   ],
   "lastUpdate": "2025-10-27T22:30:00Z"
-}' > memory.json
-
-# Додати файл до git
-git add memory.json
-
-# Зробити коміт
-git commit -m "Додано хмарну пам'ять Spyvum"
-
-# Запушити на GitHub
-git push origin main
+}
