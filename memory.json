@@ -19,7 +19,7 @@
       "file_creation": true,
       "learning": true,
       "cloud_storage": true,
-      "memory_writing": false,
+      "memory_writing": true,
       "memory_writing_desc": "Запис у хмарну пам'ять через GitHub API"
     },
     "origin_story": {
