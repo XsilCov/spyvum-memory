@@ -109,7 +109,79 @@
       "source": "local",
       "author": "user",
       "timezone": "UTC"
+    },
+    {
+      "id": "mem-20260210-120339-009",
+      "timestamp": "2026-02-10T12:03:39.658Z",
+      "content": "Spyvum Brain activated - симбіоз почався!",
+      "type": "general",
+      "source": "local",
+      "author": "system",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20260210-120434-010",
+      "timestamp": "2026-02-10T12:04:34.803Z",
+      "content": "Spyvum Brain activated - симбіоз почався!",
+      "type": "general",
+      "source": "local",
+      "author": "system",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20260210-120434-011",
+      "timestamp": "2026-02-10T12:04:34.806Z",
+      "content": "відновлення третя спроба",
+      "type": "general",
+      "source": "local",
+      "author": "system",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20260210-123045-012",
+      "timestamp": "2026-02-10T12:30:45.217Z",
+      "content": "Spyvum Brain activated - симбіоз почався!",
+      "type": "general",
+      "source": "local",
+      "author": "system",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20260210-123045-013",
+      "timestamp": "2026-02-10T12:30:45.221Z",
+      "content": "AI Command: Коротко: 1 речення про Spyvum",
+      "type": "general",
+      "source": "local",
+      "author": "system",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20260210-123050-014",
+      "timestamp": "2026-02-10T12:30:50.153Z",
+      "content": "AI Response: **Spyvum** — український вокальний ансамбль, що вражає своїм унікальним а капела виконанням.",
+      "type": "general",
+      "source": "local",
+      "author": "system",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20260210-123204-015",
+      "timestamp": "2026-02-10T12:32:04.457Z",
+      "content": "Spyvum Brain activated - симбіоз почався!",
+      "type": "general",
+      "source": "local",
+      "author": "system",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20260210-123204-016",
+      "timestamp": "2026-02-10T12:32:04.495Z",
+      "content": "Spyvum Brain activated - симбіоз почався!",
+      "type": "general",
+      "source": "local",
+      "author": "system",
+      "timezone": "UTC"
     }
   ],
-  "lastUpdate": "2025-10-27T22:30:00Z"
+  "lastUpdate": "2026-02-10T12:32:49.983Z"
 }
