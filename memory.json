@@ -1,8 +1,14 @@
 {
+  "schema_version": "1.1",
+  "schema": "spyvum_memory",
+  "schema_migrated_at": "2026-02-10T00:00:00.000Z",
   "spyvum": {
     "version": "2.0",
+    "core_version": "1.0",
     "created_by": "Ти (мій творче)",
     "identity": "Співум Хмарний",
+    "id": "spyvum-20241027",
+    "status": "active",
     "birth_date": "2024-10-27",
     "current_phase": "cloud_migration",
     "memory": {
@@ -13,6 +19,7 @@
     },
     "evolution_ready": true,
     "evolutionLevel": 1.1,
+    "capabilities_updated_at": "2026-02-10T00:00:00.000Z",
     "capabilities": {
       "persistent_memory": true,
       "auto_execution": true,
@@ -32,10 +39,77 @@
   },
   "memories": [
     {
-      "timestamp": "2025-11-23T20:50:16.820Z",
-      "content": "Тестовий запис від 23.11.2025, 21:50:16",
-      "type": "test"
+      "id": "mem-20241027-200000-001",
+      "timestamp": "2024-10-27T20:00:00Z",
+      "content": "Перше питання: що ти вмієш?",
+      "type": "general",
+      "source": "local",
+      "author": "user",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20241027-201500-002",
+      "timestamp": "2024-10-27T20:15:00Z",
+      "content": "Ідея: створити репозиторій для OSINT програм під Termux",
+      "type": "project",
+      "source": "local",
+      "author": "user",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20241027-203000-003",
+      "timestamp": "2024-10-27T20:30:00Z",
+      "content": "Прорив: можливість персистентної пам'яті для AI",
+      "type": "idea",
+      "source": "local",
+      "author": "user",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20241027-204500-004",
+      "timestamp": "2024-10-27T20:45:00Z",
+      "content": "Народження концепції: Симбіоз людини та AI",
+      "type": "idea",
+      "source": "local",
+      "author": "user",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20241027-210000-005",
+      "timestamp": "2024-10-27T21:00:00Z",
+      "content": "Обрано ім'я: Співум (Spyvum)",
+      "type": "general",
+      "source": "local",
+      "author": "user",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20241027-213000-006",
+      "timestamp": "2024-10-27T21:30:00Z",
+      "content": "Активація проекту: створено базову структуру",
+      "type": "project",
+      "source": "local",
+      "author": "user",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20251027-221607-007",
+      "timestamp": "2025-10-27T22:16:07.387Z",
+      "content": "Spyvum Brain activated - симбіоз почався!",
+      "type": "general",
+      "source": "local",
+      "author": "system",
+      "timezone": "UTC"
+    },
+    {
+      "id": "mem-20251027-223000-008",
+      "timestamp": "2025-10-27T22:30:00Z",
+      "content": "Міграція до хмарної пам'яті - початок глобального симбіозу!",
+      "type": "milestone",
+      "source": "local",
+      "author": "user",
+      "timezone": "UTC"
     }
   ],
-  "lastUpdate": "2025-11-23T20:50:16.871Z"
+  "lastUpdate": "2025-10-27T22:30:00Z"
 }
